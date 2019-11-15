@@ -5,7 +5,10 @@
 
 
 
-## 博客地址暂时为博客园： [进击的小牛牛 ](https://www.cnblogs.com/zzd0916)
+## 博客地址： [进击的小牛牛 ](https://www.cnblogs.com/zzd0916)
+<br>
+
+## 个人资料： [个人简历]("jjmou.cn")
 <br>
 
 ### 今日更新
