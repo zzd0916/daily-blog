@@ -8,7 +8,7 @@
 ## 博客地址： [进击的小牛牛 ](https://www.cnblogs.com/zzd0916)
 <br>
 
-## 个人资料： [个人简历]("jjmou.cn")
+## 个人资料： [个人简历]("http://www.jjmou.cn")
 <br>
 
 ### 今日更新
