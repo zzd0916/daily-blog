@@ -13,8 +13,9 @@
 
 ### 今日更新
 
-[《浏览器工作原理与实践》<03>HTTP请求流程：为什么很多站点第二次打开速度会很快？](https://www.cnblogs.com/zzd0916/p/11883779.html)
-[《设计模式之美》 <02>评判代码质量好坏的维度](https://www.cnblogs.com/zzd0916/p/11888067.html)
+- [《浏览器工作原理与实践》<03>HTTP请求流程：为什么很多站点第二次打开速度会很快？](https://www.cnblogs.com/zzd0916/p/11883779.html)
+	
+- [《设计模式之美》 <02>评判代码质量好坏的维度](https://www.cnblogs.com/zzd0916/p/11888067.html)
 
 <br>
 
