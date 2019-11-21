@@ -13,7 +13,7 @@
 
 ### 今日更新
 
-- [《浏览器工作原理与实践》<04>从输入URL到页面展示，这中间发生了什么？](https://www.cnblogs.com/zzd0916/p/11899512.html)
+- [《浏览器工作原理与实践》<05>渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的？](https://www.cnblogs.com/zzd0916/p/11906312.html)
 
 
 <br>
@@ -36,7 +36,9 @@
 
 - 2019年11月19日: [《浏览器工作原理与实践》<03>HTTP请求流程：为什么很多站点第二次打开速度会很快？](https://www.cnblogs.com/zzd0916/p/11883779.html)
 
-- 2019年11月20日: - [《浏览器工作原理与实践》<04>从输入URL到页面展示，这中间发生了什么？](https://www.cnblogs.com/zzd0916/p/11899512.html)
+- 2019年11月20日: [《浏览器工作原理与实践》<04>从输入URL到页面展示，这中间发生了什么？](https://www.cnblogs.com/zzd0916/p/11899512.html)
+
+- 2019年11月21日: [《浏览器工作原理与实践》<05>渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的？](https://www.cnblogs.com/zzd0916/p/11906312.html)
 
 <br>
 
