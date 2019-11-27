@@ -13,9 +13,7 @@
 
 ### 今日更新
 
-- [《设计模式之美》 <03>面向对象、设计原则、设计模式、编程规范、重构，这五者有何关系？](https://www.cnblogs.com/zzd0916/p/11933892.html)
-
-- [《数据结构与算法之美》 <02>复杂度分析（下）：浅析最好、最坏、平均、均摊时间复杂度？](https://www.cnblogs.com/zzd0916/p/11934479.html)
+- [《浏览器工作原理与实践》<07>变量提升：JavaScript代码是按顺序执行的吗？](https://www.cnblogs.com/zzd0916/p/11943200.html)
 
 <br>
 
@@ -42,6 +40,10 @@
 - 2019年11月21日: [《浏览器工作原理与实践》<05>渲染流程（上）：HTML、CSS和JavaScript，是如何变成页面的？](https://www.cnblogs.com/zzd0916/p/11906312.html)
 
 - 2019年11月25日: [《浏览器工作原理与实践》<06>渲染流程（下）：HTML、CSS和JavaScript，是如何变成页面的？](https://www.cnblogs.com/zzd0916/p/11913199.html)
+
+<strong>浏览器下Javascript的执行机制</strong>
+
+- 2019年11月27日: [《浏览器工作原理与实践》<07>变量提升：JavaScript代码是按顺序执行的吗？](https://www.cnblogs.com/zzd0916/p/11943200.html)
 
 <br>
 
