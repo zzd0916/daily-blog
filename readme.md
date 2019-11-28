@@ -13,7 +13,7 @@
 
 ### 今日更新
 
-- [《浏览器工作原理与实践》<07>变量提升：JavaScript代码是按顺序执行的吗？](https://www.cnblogs.com/zzd0916/p/11943200.html)
+- [《浏览器工作原理与实践》<08>调用栈：为什么JavaScript代码会出现栈溢出？](https://www.cnblogs.com/zzd0916/p/11950363.html)
 
 <br>
 
@@ -44,6 +44,7 @@
 <strong>浏览器下Javascript的执行机制</strong>
 
 - 2019年11月27日: [《浏览器工作原理与实践》<07>变量提升：JavaScript代码是按顺序执行的吗？](https://www.cnblogs.com/zzd0916/p/11943200.html)
+- 2019年11月28日: [《浏览器工作原理与实践》<08>调用栈：为什么JavaScript代码会出现栈溢出？](https://www.cnblogs.com/zzd0916/p/11950363.html)
 
 <br>
 
