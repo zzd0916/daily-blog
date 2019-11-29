@@ -13,7 +13,7 @@
 
 ### 今日更新
 
-- [《浏览器工作原理与实践》<08>调用栈：为什么JavaScript代码会出现栈溢出？](https://www.cnblogs.com/zzd0916/p/11950363.html)
+- [《浏览器工作原理与实践》<09>块级作用域：var缺陷以及为什么要引入let和const？](https://www.cnblogs.com/zzd0916/p/11958447.html)
 
 <br>
 
@@ -41,10 +41,14 @@
 
 - 2019年11月25日: [《浏览器工作原理与实践》<06>渲染流程（下）：HTML、CSS和JavaScript，是如何变成页面的？](https://www.cnblogs.com/zzd0916/p/11913199.html)
 
+
 <strong>浏览器下Javascript的执行机制</strong>
 
 - 2019年11月27日: [《浏览器工作原理与实践》<07>变量提升：JavaScript代码是按顺序执行的吗？](https://www.cnblogs.com/zzd0916/p/11943200.html)
+
 - 2019年11月28日: [《浏览器工作原理与实践》<08>调用栈：为什么JavaScript代码会出现栈溢出？](https://www.cnblogs.com/zzd0916/p/11950363.html)
+
+- 2019年11月29日: [《浏览器工作原理与实践》<09>块级作用域：var缺陷以及为什么要引入let和const？](https://www.cnblogs.com/zzd0916/p/11958447.html)
 
 <br>
 
