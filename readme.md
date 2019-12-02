@@ -13,7 +13,7 @@
 
 ### 今日更新
 
-- 《浏览器工作原理与实践》<10>作用域链和闭包 ：代码中出现相同的变量，JavaScript引擎是如何选择的？](https://www.cnblogs.com/zzd0916/p/11969594.html)
+- [《浏览器工作原理与实践》<10>作用域链和闭包 ：代码中出现相同的变量，JavaScript引擎是如何选择的？](https://www.cnblogs.com/zzd0916/p/11969594.html)
 
 - [《数据结构与算法之美》<03>数组：为什么很多编程语言中数组都从0开始编号？](https://www.cnblogs.com/zzd0916/p/11950776.html)
 
@@ -54,7 +54,7 @@
 
 - 2019年11月29日: [《浏览器工作原理与实践》<09>块级作用域：var缺陷以及为什么要引入let和const？](https://www.cnblogs.com/zzd0916/p/11958447.html)
 
-- 2019年12月02日: 《浏览器工作原理与实践》<10>作用域链和闭包 ：代码中出现相同的变量，JavaScript引擎是如何选择的？](https://www.cnblogs.com/zzd0916/p/11969594.html)
+- 2019年12月02日: [《浏览器工作原理与实践》<10>作用域链和闭包 ：代码中出现相同的变量，JavaScript引擎是如何选择的？](https://www.cnblogs.com/zzd0916/p/11969594.html)
 
 <br>
 
