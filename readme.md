@@ -58,7 +58,7 @@
 
 #### 数据结构与算法之美
 
-<strong>相关资源地址： [点此进入](https://github.com/zzd0916/structures-and-algorithms) </strong>
+相关资源地址： [点此进入](https://github.com/zzd0916/structures-and-algorithms)
 
 
 <strong>入门篇</strong>
