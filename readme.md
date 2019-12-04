@@ -13,9 +13,8 @@
 
 ### 今日更新
 
-- [《数据结构与算法之美》 <04>链表（上）：如何实现LRU缓存淘汰算法?](https://www.cnblogs.com/zzd0916/p/11970587.html)
+- [《数据结构与算法之美》 <05>链表（下）：如何轻松写出正确的链表代码？](https://www.cnblogs.com/zzd0916/p/11975669.html)
 
-- [《浏览器工作原理与实践》 <11>this：从JavaScript执行上下文的视角讲清楚this](https://www.cnblogs.com/zzd0916/p/11977995.html)
 
 <br>
 
@@ -78,6 +77,7 @@
 
 - 2019年12月03日: [《数据结构与算法之美》 <04>链表（上）：如何实现LRU缓存淘汰算法?](https://www.cnblogs.com/zzd0916/p/11970587.html)
 	
+- 2019年12月04日: [《数据结构与算法之美》 <05>链表（下）：如何轻松写出正确的链表代码？](https://www.cnblogs.com/zzd0916/p/11975669.html)
 
 <br>
 
