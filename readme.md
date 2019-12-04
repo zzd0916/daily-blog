@@ -15,6 +15,8 @@
 
 - [《数据结构与算法之美》 <05>链表（下）：如何轻松写出正确的链表代码？](https://www.cnblogs.com/zzd0916/p/11975669.html)
 
+- [《浏览器工作原理与实践》 <12>栈空间和堆空间：数据是如何存储的？]https://www.cnblogs.com/zzd0916/p/11983981.html)
+
 
 <br>
 
@@ -54,6 +56,13 @@
 - 2019年12月02日: [《浏览器工作原理与实践》<10>作用域链和闭包 ：代码中出现相同的变量，JavaScript引擎是如何选择的？](https://www.cnblogs.com/zzd0916/p/11969594.html)
 
 - 2019年12月03日: [《浏览器工作原理与实践》 <11>this：从JavaScript执行上下文的视角讲清楚this](https://www.cnblogs.com/zzd0916/p/11977995.html)
+
+
+<strong>V8工作原理</strong>
+
+- 2019年12月04日: [《浏览器工作原理与实践》 <12>栈空间和堆空间：数据是如何存储的？](https://www.cnblogs.com/zzd0916/p/11983981.html)
+
+
 
 <br>
 
